@@ -28,6 +28,7 @@
 @media (max-width:600px) {
    #showcase .showcase-container {
     grid-template-columns: 1fr;
+    height: 100%;
    }
    #home-articles .articles-container {
     grid-template-columns: 1fr;
